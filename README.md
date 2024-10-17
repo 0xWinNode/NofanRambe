@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-> "A passionate full-stack developer from Purwakarta, South Java"
+> "Don't follow me, i'm lost too!"
 
 I'm a developer on an exciting journey through the world of code. While I might be lost sometimes, I believe that's where the best discoveries happen! I'm constantly exploring new technologies and improving my skills.
 
